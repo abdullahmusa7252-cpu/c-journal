@@ -99,29 +99,3 @@ int main()
     printf("avg: %f\n", (float)sum/5);
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
